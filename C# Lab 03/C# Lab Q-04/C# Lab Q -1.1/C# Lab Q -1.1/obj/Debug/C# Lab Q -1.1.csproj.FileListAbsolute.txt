@@ -1,0 +1,3 @@
+C:\Users\Dell\Desktop\C# Lab 03\C# Lab Q-04\C# Lab Q -1.1\C# Lab Q -1.1\obj\Debug\C# Lab Q -1.1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C# Lab 03\C# Lab Q-04\C# Lab Q -1.1\C# Lab Q -1.1\obj\Debug\C# Lab Q -1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C# Lab 03\C# Lab Q-04\C# Lab Q -1.1\C# Lab Q -1.1\obj\Debug\C# Lab Q -1.1.csproj.CoreCompileInputs.cache
